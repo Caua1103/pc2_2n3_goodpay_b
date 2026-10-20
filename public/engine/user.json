@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Victor Icoma",
+        "email": "victoricoma@gmail.com",
+        "password": "123456"
+    },
+    {
+        "id": 2,
+        "name": "Caio Artrax",
+        "email": "caioartrax@gmail.com",
+        "password": "884455"
+    },
+    {
+        "id": 3,
+        "name": "Marcio Silva",
+        "email": "marciosilva@gmail.com",
+        "password": "654321"
+    },
+    {
+        "id": 4,
+        "name": "Yasmin Oliveira",
+        "email": "yasminoliveira@gmail.com",
+        "password": "998877"
+    }
+]
